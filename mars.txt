@@ -9,3 +9,5 @@ Title: Paper about planets and stars
 
 References: 
 (fro mthe reference.bib file)
+
+Data and Resulst
